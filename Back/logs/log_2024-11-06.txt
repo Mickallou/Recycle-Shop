@@ -1,0 +1,132 @@
+Date: 2024-11-06 18:28:44
+Method: GET
+Status code: 401
+URL: /users/6713e843962019839a6eeabf
+Error: Unauthorized
+
+Date: 2024-11-06 18:30:24
+Method: GET
+Status code: 401
+URL: /users/6713e843962019839a6eeabf
+Error: Unauthorized
+
+Date: 2024-11-06 19:25:22
+Method: PATCH
+Status code: 401
+URL: /products/67265a8556c5122602ebc878/sold
+Error: Unauthorized
+
+Date: 2024-11-06 19:27:03
+Method: PATCH
+Status code: 401
+URL: /products/672ba2857d8b20527fc64106/sold
+Error: Unauthorized
+
+Date: 2024-11-06 19:29:18
+Method: PATCH
+Status code: 401
+URL: /products/672ba2857d8b20527fc64106/sold
+Error: Unauthorized
+
+Date: 2024-11-06 19:29:45
+Method: PATCH
+Status code: 401
+URL: /products/672ba2857d8b20527fc64106/sold
+Error: Unauthorized
+
+Date: 2024-11-06 19:29:45
+Method: PATCH
+Status code: 401
+URL: /products/672ba2857d8b20527fc64106/sold
+Error: Unauthorized
+
+Date: 2024-11-06 19:31:02
+Method: GET
+Status code: 401
+URL: /users/6713e843962019839a6eeabf
+Error: Unauthorized
+
+Date: 2024-11-06 19:31:19
+Method: GET
+Status code: 401
+URL: /users/6713e843962019839a6eeabf
+Error: Unauthorized
+
+Date: 2024-11-06 19:31:44
+Method: PATCH
+Status code: 401
+URL: /products/672ba2857d8b20527fc64106/sold
+Error: Unauthorized
+
+Date: 2024-11-06 19:32:20
+Method: PATCH
+Status code: 401
+URL: /products/67265a8556c5122602ebc878/sold
+Error: Unauthorized
+
+Date: 2024-11-06 19:33:14
+Method: PATCH
+Status code: 401
+URL: /products/67265a8556c5122602ebc878/sold
+Error: Unauthorized
+
+Date: 2024-11-06 19:36:01
+Method: PATCH
+Status code: 403
+URL: /products/672ba2857d8b20527fc64106/sold
+Error: Forbidden
+
+Date: 2024-11-06 20:14:10
+Method: GET
+Status code: 403
+URL: /users
+Error: Forbidden
+
+Date: 2024-11-06 20:14:26
+Method: GET
+Status code: 403
+URL: /users
+Error: Forbidden
+
+Date: 2024-11-06 20:14:26
+Method: GET
+Status code: 403
+URL: /users
+Error: Forbidden
+
+Date: 2024-11-06 20:14:26
+Method: GET
+Status code: 403
+URL: /users
+Error: Forbidden
+
+Date: 2024-11-06 20:14:26
+Method: GET
+Status code: 403
+URL: /users
+Error: Forbidden
+
+Date: 2024-11-06 20:18:08
+Method: DELETE
+Status code: 403
+URL: /users/6713f43cbb9544264b253f82
+Error: Forbidden
+
+Date: 2024-11-06 20:19:10
+Method: DELETE
+Status code: 403
+URL: /users/6713f43cbb9544264b253f82
+Error: Forbidden
+
+Date: 2024-11-06 20:20:56
+Method: DELETE
+Status code: 403
+URL: /users/6713f43cbb9544264b253f82
+Error: Forbidden
+
+Date: 2024-11-06 20:22:28
+Method: DELETE
+Status code: 403
+URL: /users/6713f43cbb9544264b253f82
+Error: Forbidden
+

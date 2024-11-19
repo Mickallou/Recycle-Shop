@@ -1,0 +1,18 @@
+Date: 2024-09-25 16:57:30
+Method: GET
+Status code: 404
+URL: /products/$%7Bdata._id%7D
+Error: Not Found
+
+Date: 2024-09-25 16:57:33
+Method: GET
+Status code: 404
+URL: /favicon.ico
+Error: Not Found
+
+Date: 2024-09-25 16:58:35
+Method: GET
+Status code: 404
+URL: /favicon.ico
+Error: Not Found
+

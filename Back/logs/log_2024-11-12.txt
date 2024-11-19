@@ -1,0 +1,216 @@
+Date: 2024-11-12 18:44:39
+Method: GET
+Status code: 401
+URL: /users/6713e843962019839a6eeabf
+Error: Unauthorized
+
+Date: 2024-11-12 18:47:02
+Method: GET
+Status code: 401
+URL: /users/6713e843962019839a6eeabf
+Error: Unauthorized
+
+Date: 2024-11-12 18:50:17
+Method: PUT
+Status code: 403
+URL: /products/67265b0656c5122602ebc87f
+Error: Forbidden
+
+Date: 2024-11-12 18:52:06
+Method: PUT
+Status code: 400
+URL: /products/67265b0656c5122602ebc87f
+Error: Bad Request
+
+Date: 2024-11-12 18:53:11
+Method: PUT
+Status code: 400
+URL: /products/67265b0656c5122602ebc87f
+Error: Bad Request
+
+Date: 2024-11-12 18:55:33
+Method: PUT
+Status code: 400
+URL: /products/67265b0656c5122602ebc87f
+Error: Bad Request
+
+Date: 2024-11-12 18:57:21
+Method: PUT
+Status code: 400
+URL: /products/67265b0656c5122602ebc87f
+Error: Bad Request
+
+Date: 2024-11-12 19:03:59
+Method: PUT
+Status code: 400
+URL: /products/67265b0656c5122602ebc87f
+Error: Bad Request
+
+Date: 2024-11-12 19:04:33
+Method: PUT
+Status code: 400
+URL: /products/67265b0656c5122602ebc87f
+Error: Bad Request
+
+Date: 2024-11-12 19:40:31
+Method: GET
+Status code: 404
+URL: /users/undefined
+Error: Not Found
+
+Date: 2024-11-12 19:46:34
+Method: PUT
+Status code: 400
+URL: /users/6713e843962019839a6eeabf
+Error: Bad Request
+
+Date: 2024-11-12 19:47:59
+Method: PUT
+Status code: 401
+URL: /users/6713e843962019839a6eeabf
+Error: Unauthorized
+
+Date: 2024-11-12 19:48:13
+Method: GET
+Status code: 401
+URL: /users/undefined
+Error: Unauthorized
+
+Date: 2024-11-12 19:48:14
+Method: GET
+Status code: 401
+URL: /users/6713e843962019839a6eeabf
+Error: Unauthorized
+
+Date: 2024-11-12 19:48:32
+Method: GET
+Status code: 401
+URL: /users/undefined
+Error: Unauthorized
+
+Date: 2024-11-12 19:48:33
+Method: GET
+Status code: 401
+URL: /users/6713e843962019839a6eeabf
+Error: Unauthorized
+
+Date: 2024-11-12 19:48:57
+Method: GET
+Status code: 401
+URL: /users/undefined
+Error: Unauthorized
+
+Date: 2024-11-12 19:48:57
+Method: GET
+Status code: 401
+URL: /users/undefined
+Error: Unauthorized
+
+Date: 2024-11-12 19:49:18
+Method: PUT
+Status code: 400
+URL: /users/6713e843962019839a6eeabf
+Error: Bad Request
+
+Date: 2024-11-12 19:50:10
+Method: PUT
+Status code: 400
+URL: /users/6713e843962019839a6eeabf
+Error: Bad Request
+
+Date: 2024-11-12 19:50:32
+Method: PUT
+Status code: 400
+URL: /users/6713e843962019839a6eeabf
+Error: Bad Request
+
+Date: 2024-11-12 19:52:20
+Method: PUT
+Status code: 400
+URL: /users/6713e843962019839a6eeabf
+Error: Bad Request
+
+Date: 2024-11-12 19:54:15
+Method: PUT
+Status code: 400
+URL: /users/6713e843962019839a6eeabf
+Error: Bad Request
+
+Date: 2024-11-12 19:54:19
+Method: GET
+Status code: 404
+URL: /users/undefined
+Error: Not Found
+
+Date: 2024-11-12 19:54:26
+Method: PUT
+Status code: 400
+URL: /users/6713e843962019839a6eeabf
+Error: Bad Request
+
+Date: 2024-11-12 19:55:23
+Method: GET
+Status code: 404
+URL: /users/undefined
+Error: Not Found
+
+Date: 2024-11-12 19:55:57
+Method: GET
+Status code: 404
+URL: /users/undefined
+Error: Not Found
+
+Date: 2024-11-12 19:56:00
+Method: PUT
+Status code: 400
+URL: /users/6713e843962019839a6eeabf
+Error: Bad Request
+
+Date: 2024-11-12 19:56:10
+Method: GET
+Status code: 404
+URL: /users/undefined
+Error: Not Found
+
+Date: 2024-11-12 19:56:30
+Method: PUT
+Status code: 400
+URL: /users/6713e843962019839a6eeabf
+Error: Bad Request
+
+Date: 2024-11-12 19:56:49
+Method: PUT
+Status code: 400
+URL: /users/6713e843962019839a6eeabf
+Error: Bad Request
+
+Date: 2024-11-12 19:57:17
+Method: GET
+Status code: 404
+URL: /users/undefined
+Error: Not Found
+
+Date: 2024-11-12 19:57:38
+Method: PUT
+Status code: 400
+URL: /users/6713e843962019839a6eeabf
+Error: Bad Request
+
+Date: 2024-11-12 19:58:07
+Method: GET
+Status code: 404
+URL: /users/undefined
+Error: Not Found
+
+Date: 2024-11-12 19:59:45
+Method: PUT
+Status code: 400
+URL: /users/6713e843962019839a6eeabf
+Error: Bad Request
+
+Date: 2024-11-12 19:59:50
+Method: GET
+Status code: 404
+URL: /users/undefined
+Error: Not Found
+

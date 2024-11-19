@@ -1,0 +1,96 @@
+Date: 2024-11-14 19:37:56
+Method: DELETE
+Status code: 401
+URL: /products/67265b0656c5122602ebc87f
+Error: Unauthorized
+
+Date: 2024-11-14 19:37:59
+Method: DELETE
+Status code: 401
+URL: /products/67265b0656c5122602ebc87f
+Error: Unauthorized
+
+Date: 2024-11-14 19:38:59
+Method: DELETE
+Status code: 401
+URL: /products/67265b0656c5122602ebc87f
+Error: Unauthorized
+
+Date: 2024-11-14 19:43:09
+Method: DELETE
+Status code: 401
+URL: /products/67265b0656c5122602ebc87f
+Error: Unauthorized
+
+Date: 2024-11-14 19:45:39
+Method: DELETE
+Status code: 401
+URL: /products/67265b0656c5122602ebc87f
+Error: Unauthorized
+
+Date: 2024-11-14 19:48:17
+Method: DELETE
+Status code: 404
+URL: /products/67265b0656c5122602ebc87f
+Error: Not Found
+
+Date: 2024-11-14 19:48:33
+Method: DELETE
+Status code: 404
+URL: /products/67265b0656c5122602ebc87f
+Error: Not Found
+
+Date: 2024-11-14 19:49:54
+Method: DELETE
+Status code: 404
+URL: /products/67265b0656c5122602ebc87f
+Error: Not Found
+
+Date: 2024-11-14 19:50:40
+Method: DELETE
+Status code: 404
+URL: /products/67265b0656c5122602ebc87f
+Error: Not Found
+
+Date: 2024-11-14 19:50:40
+Method: DELETE
+Status code: 404
+URL: /products/67265b0656c5122602ebc87f
+Error: Not Found
+
+Date: 2024-11-14 19:52:14
+Method: DELETE
+Status code: 404
+URL: /products/67265b0656c5122602ebc87f
+Error: Not Found
+
+Date: 2024-11-14 19:56:12
+Method: GET
+Status code: 404
+URL: /products/67265b0656c5122602ebc87f
+Error: Not Found
+
+Date: 2024-11-14 19:56:56
+Method: GET
+Status code: 404
+URL: /products/672ba2857d8b20527fc64106
+Error: Not Found
+
+Date: 2024-11-14 20:00:32
+Method: DELETE
+Status code: 403
+URL: /products/67265a8556c5122602ebc878
+Error: Forbidden
+
+Date: 2024-11-14 20:00:59
+Method: DELETE
+Status code: 403
+URL: /products/67265a8556c5122602ebc878
+Error: Forbidden
+
+Date: 2024-11-14 20:01:19
+Method: DELETE
+Status code: 403
+URL: /products/67265a8556c5122602ebc878
+Error: Forbidden
+

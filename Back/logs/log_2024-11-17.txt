@@ -1,0 +1,60 @@
+Date: 2024-11-17 19:00:12
+Method: GET
+Status code: 401
+URL: /users/6713e843962019839a6eeabf
+Error: Unauthorized
+
+Date: 2024-11-17 19:54:46
+Method: POST
+Status code: 400
+URL: /messages
+Error: Bad Request
+
+Date: 2024-11-17 19:55:18
+Method: POST
+Status code: 400
+URL: /messages
+Error: Bad Request
+
+Date: 2024-11-17 19:56:01
+Method: POST
+Status code: 400
+URL: /messages
+Error: Bad Request
+
+Date: 2024-11-17 19:56:19
+Method: POST
+Status code: 500
+URL: /messages
+Error: Internal Server Error
+
+Date: 2024-11-17 19:59:58
+Method: POST
+Status code: 400
+URL: /messages
+Error: Bad Request
+
+Date: 2024-11-17 20:00:30
+Method: POST
+Status code: 400
+URL: /messages
+Error: Bad Request
+
+Date: 2024-11-17 20:02:27
+Method: POST
+Status code: 500
+URL: /messages
+Error: Internal Server Error
+
+Date: 2024-11-17 20:10:35
+Method: GET
+Status code: 401
+URL: /users/6713e843962019839a6eeabf
+Error: Unauthorized
+
+Date: 2024-11-17 20:34:34
+Method: GET
+Status code: 404
+URL: /users/undefined
+Error: Not Found
+

@@ -1,0 +1,24 @@
+Date: 2024-11-02 18:07:26
+Method: GET
+Status code: 401
+URL: /users/6704099a37e38942850e4627
+Error: Unauthorized
+
+Date: 2024-11-02 18:33:21
+Method: POST
+Status code: 403
+URL: /users/login
+Error: Forbidden
+
+Date: 2024-11-02 18:51:14
+Method: POST
+Status code: 401
+URL: /products
+Error: Unauthorized
+
+Date: 2024-11-02 18:57:06
+Method: POST
+Status code: 400
+URL: /products
+Error: Bad Request
+

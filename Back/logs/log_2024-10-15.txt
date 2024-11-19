@@ -1,0 +1,60 @@
+Date: 2024-10-15 19:35:31
+Method: GET
+Status code: 401
+URL: /users/$%7BtheUserId%7D
+Error: Unauthorized
+
+Date: 2024-10-15 19:35:32
+Method: GET
+Status code: 404
+URL: /apple-touch-icon-precomposed.png
+Error: Not Found
+
+Date: 2024-10-15 19:35:32
+Method: GET
+Status code: 404
+URL: /apple-touch-icon.png
+Error: Not Found
+
+Date: 2024-10-15 19:35:32
+Method: GET
+Status code: 404
+URL: /favicon.ico
+Error: Not Found
+
+Date: 2024-10-15 19:36:24
+Method: GET
+Status code: 401
+URL: /users/$%7BtheUserId%7D
+Error: Unauthorized
+
+Date: 2024-10-15 19:36:41
+Method: GET
+Status code: 401
+URL: /users/6704099a37e38942850e4627
+Error: Unauthorized
+
+Date: 2024-10-15 19:54:02
+Method: GET
+Status code: 401
+URL: /users/6704099a37e38942850e4627
+Error: Unauthorized
+
+Date: 2024-10-15 19:54:29
+Method: GET
+Status code: 401
+URL: /users/6704099a37e38942850e4627
+Error: Unauthorized
+
+Date: 2024-10-15 19:54:35
+Method: GET
+Status code: 401
+URL: /users/
+Error: Unauthorized
+
+Date: 2024-10-15 19:54:39
+Method: GET
+Status code: 401
+URL: /users
+Error: Unauthorized
+
